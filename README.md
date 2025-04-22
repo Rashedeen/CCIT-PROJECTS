@@ -13,7 +13,7 @@ This project involved simulating a network infrastructure for Digicamp, a digita
 ![Network Topology](ss/network_topology.png)
 
 ### Router Setup
-![Router CLI Setup](images/router-cli-setup.png)
+![Router CLI Setup](ss/router_setup.png)
 > **Figure 2:** Configuration of routers with RIP routing protocol and interface IP setup.
 
 ### Server Setup
