@@ -12,15 +12,15 @@ This project involved simulating a network infrastructure for Digicamp, a digita
 
 ![Network Topology](ss/network_topology.png)
 
-### Router Setup
+### 2. Router Setup
 ![Router CLI Setup](ss/router_setup.png)
 > **Figure 2:** Configuration of routers with RIP routing protocol and interface IP setup.
 
-### Server Setup
+### 3. Server Setup
 ![Server DHCP and DNS Setup](images/server-setup.png)
 > **Figure 3:** Server configuration providing DHCP and DNS services to the network.
 
-### Testing and Verification
+### 4. Testing and Verification
 ![Ping Tests](images/ping-tests.png)
 > **Figure 4:** Successful ping tests between different floors, validating full connectivity.
 
