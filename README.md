@@ -1,1 +1,1 @@
-This is where i keep my projects, feel free to read
+This is where i keep my college projects, feel free to read
