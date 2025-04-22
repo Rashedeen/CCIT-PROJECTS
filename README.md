@@ -10,7 +10,7 @@ This project involved simulating a network infrastructure for Digicamp, a digita
 - Deployed core devices: routers, switches, access points, PCs, laptops, and a server.
 - Assigned network addressing schemes using both DHCP and static IPs based on different sections.
 
-![Network Topology](ss/network_topology)
+![Network Topology](ss/network_topology.png)
 
 ### 2. Floor 1 Configuration
 - Configured routers with RIP routing protocol.
