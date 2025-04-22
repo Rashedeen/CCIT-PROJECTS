@@ -3,6 +3,8 @@
 ## Project Overview
 This project involved simulating a network infrastructure for Digicamp, a digital skills training provider. The goal was to implement and configure a network system across three building floors, integrating routers, switches, PCs, access points, and a server, while applying network services such as DHCP, static IP assignment, and a web server.
 
+[View Full Project Report (PDF)](docs/Digicamp-Network-Report.pdf)
+
 ## Project Steps
 
 ### 1. Network Topology Design
@@ -29,8 +31,12 @@ This project involved simulating a network infrastructure for Digicamp, a digita
 > **Figure 5:** Successful ping tests between different floors, validating full connectivity.
 
 
+![Ping Tests](ss/ping_test.png)
+> **Figure 6:** Successful ping tests between different floors, validating full connectivity.
+
+
 ![Web Service](ss/web_service.png)
-> **Figure 5:** Successful web service access, validating full connectivity.
+> **Figure 7:** Successful web service access, validating full connectivity.
 
 ## Tools and Environment
 - **Hardware:** ASUS Vivobook
