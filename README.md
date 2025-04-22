@@ -3,7 +3,7 @@
 ## Project Overview
 This project involved simulating a network infrastructure for Digicamp, a digital skills training provider. The goal was to implement and configure a network system across three building floors, integrating routers, switches, PCs, access points, and a server, while applying network services such as DHCP, static IP assignment, and a web server.
 
-[View Full Project Report (PDF)](paper/.pdf)
+[View Full Project Report (PDF)](main/Cisco-PT-Project.pdf)
 
 ## Project Steps
 
