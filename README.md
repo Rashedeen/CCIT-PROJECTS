@@ -17,12 +17,20 @@ This project involved simulating a network infrastructure for Digicamp, a digita
 > **Figure 2:** Configuration of routers with RIP routing protocol and interface IP setup.
 
 ### 3. Server Setup
-![Server DHCP and DNS Setup](images/server-setup.png)
-> **Figure 3:** Server configuration providing DHCP and DNS services to the network.
+![Server DHCP and DNS Setup](ss/DHCP_server_setup.png)
+> **Figure 3:** Server configuration providing DHCP services to the network.
+
+
+![Server DHCP and DNS Setup](ss/DNS_server_setup.png)
+> **Figure 4:** Server configuration providing DNS services to the network.
 
 ### 4. Testing and Verification
-![Ping Tests](images/ping-tests.png)
-> **Figure 4:** Successful ping tests between different floors, validating full connectivity.
+![Ping Tests](ss/ping_test.png)
+> **Figure 5:** Successful ping tests between different floors, validating full connectivity.
+
+
+![Web Service](ss/web_service.png)
+> **Figure 5:** Successful web service access, validating full connectivity.
 
 ## Tools and Environment
 - **Hardware:** ASUS Vivobook
