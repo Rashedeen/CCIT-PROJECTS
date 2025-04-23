@@ -22,17 +22,20 @@ This project involved simulating a network infrastructure for Digicamp, a digita
 ![Server DHCP and DNS Setup](ss/DHCP_server_setup.png)
 > **Figure 3:** Server configuration providing DHCP services to the network.
 
+### 4. IP Setup
+![Server DHCP and DNS Setup](ss/DHCP_server_setup.png)
+> **Figure 4:** Server configuration providing DHCP services to the network.
 
 ![Server DHCP and DNS Setup](ss/DNS_server_setup.png)
-> **Figure 4:** Server configuration providing DNS services to the network.
+> **Figure 5:** Server configuration providing DNS services to the network.
 
 ### 4. Testing and Verification
 ![Ping Tests](ss/ping_test.png)
-> **Figure 5:** Successful ping tests between different floors, validating full connectivity.
+> **Figure 6:** Successful ping tests between different floors, validating full connectivity.
 
 
 ![Ping Tests](ss/ping_test.png)
-> **Figure 6:** Successful ping tests between different floors, validating full connectivity.
+> **Figure 7:** Successful ping tests between different floors, validating full connectivity.
 
 
 ![Web Service](ss/web_service.png)
