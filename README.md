@@ -5,6 +5,17 @@ This project involved simulating a network infrastructure for Digicamp, a digita
 
 [View Full Project Report (PDF)](Cisco-PT-Project.pdf)
 
+## Tools and Environment
+- **Hardware:** ASUS Vivobook
+- **Operating System:** Windows 11 64-bit
+- **Software:** Cisco Packet Tracer, Microsoft Word, Google Drive
+
+## Key Outcomes
+- Full network simulation for a multi-floor building.
+- Implementation of DHCP and static IP addressing.
+- Successful integration of web and DNS servers.
+- Reliable connectivity across all floors and departments.
+
 ## Project Steps
 
 ### 1. Network Topology Design
@@ -49,16 +60,6 @@ Performed connectivity tests using the ping tool between devices on different fl
 ![Web Service](ss/web_service.png)
 > **Figure 7:** Successful web service access, validating full connectivity.
 
-## Tools and Environment
-- **Hardware:** ASUS Vivobook
-- **Operating System:** Windows 11 64-bit
-- **Software:** Cisco Packet Tracer, Microsoft Word, Google Drive
-
-## Key Outcomes
-- Full network simulation for a multi-floor building.
-- Implementation of DHCP and static IP addressing.
-- Successful integration of web and DNS servers.
-- Reliable connectivity across all floors and departments.
 
 ---
 
